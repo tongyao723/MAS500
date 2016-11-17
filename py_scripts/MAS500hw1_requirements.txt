@@ -1,0 +1,12 @@
+#
+####### MAS500hw1_requirements.txt #######
+#
+###### Requirements without Version Specifiers ######
+mediacloud
+#
+###### Requirements with Version Specifiers ######
+python == 3.5
+#
+
+
+
